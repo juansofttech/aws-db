@@ -1,0 +1,5 @@
+{
+	"db_url": "jdbc:redshift://<your-cluster-endpoint>:5439/<your-database-name>",
+	"username": "<your-username>",
+	"password": "<your-password>"
+}
